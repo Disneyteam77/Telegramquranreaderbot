@@ -1,0 +1,12 @@
+{
+  "name": "Disney Team Telegram Quran Reader Bot",
+  "description": "A Telegram Bot That Help To Read Quran without closing Telegram",
+  "logo": "https://telegra.ph/file/38f2476dd1fad56334403.jpg",
+  "repository": "https://github.com/disneyteam77/TelegramQuranReaderbot",
+  "env": {
+    "TOKEN": {
+      "description": "Enter Bot Token from @BotFather",
+      "required": true
+    }
+  }
+}
