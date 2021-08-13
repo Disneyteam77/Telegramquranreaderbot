@@ -1,1 +1,1 @@
-worker: python3 Quran.py
+worker: python3 quran.py
