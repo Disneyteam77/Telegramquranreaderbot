@@ -1,11 +1,6 @@
 # Telegramquranreaderbot
 A Bot To See quran whithout exiting telegram
 
-### Dev
-
-[Achu Biju](https://t.me/AmiFutami)
-
-[Doreamonfans](https://github.com/doreamonfans1) For Indo Vr of The bot
 
 
 
